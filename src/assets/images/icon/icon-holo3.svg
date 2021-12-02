@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>编组 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="12" cy="12" r="12"></circle>
+        <filter x="-29.2%" y="-20.8%" width="158.3%" height="158.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="0.00096 0.0127850504 13.10712 0.0127850504 13.10712 13.119984 0.00096 13.119984"></polygon>
+    </defs>
+    <g id="8全息反演" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="全系反演" transform="translate(-655.000000, -687.000000)">
+            <g id="编组-4" transform="translate(322.000000, 477.000000)">
+                <g id="编组-11" transform="translate(337.000000, 212.000000)">
+                    <g id="椭圆形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#3399FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="yichang" transform="translate(5.000000, 5.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M6.553568,0.0127850504 C5.286,0.005616 4.066496,0.49768 3.158816,1.382544 C2.27256,2.2588 1.772496,3.452432 1.769504,4.698672 L1.769504,11.094928 L11.285248,11.094928 L11.285248,4.698672 C11.284192,3.450672 10.78112,2.255616 9.889376,1.382544 C8.997504,0.510176 7.801184,0.018928 6.553568,0.0127850504 Z M6.160368,9.561424 L6.022752,6.461552 L3.67656,6.461552 L6.756752,2.575296 L7.01888,5.0788 L9.24712,5.157424 L6.134128,9.561424 L6.160368,9.561424 Z M-2.78336664e-05,12.40568 C-0.00168,12.215056 0.072752,12.03168 0.206944,11.896304 C0.341056,11.760928 0.523744,11.684736 0.714368,11.684736 L12.392816,11.684736 C12.581744,11.68712 12.762496,11.76224 12.89744,11.89448 C13.030128,12.031792 13.10512,12.214736 13.10712,12.40568 C13.10712,12.800176 12.787312,13.119984 12.392816,13.119984 L0.714368,13.119984 C0.319872,13.119984 -2.78336664e-05,12.800176 -2.78336664e-05,12.40568 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

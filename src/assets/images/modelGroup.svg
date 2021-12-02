@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="14px" viewBox="0 0 12 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>thunderbolt-fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="市场成员监测" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.649999976">
+        <g id="电厂/机组详情" transform="translate(-363.000000, -316.000000)" fill-rule="nonzero">
+            <g id="编组-12" transform="translate(257.000000, 191.000000)">
+                <g id="编组-24" transform="translate(40.000000, 121.000000)">
+                    <g id="编组-23" transform="translate(64.000000, 0.000000)">
+                        <g id="thunderbolt-fill" transform="translate(0.000000, 3.000000)">
+                            <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                            <path d="M13.25,5.6140625 L9.8078125,5.6140625 L12.903125,1.703125 C12.9671875,1.6203125 12.909375,1.5 12.8046875,1.5 L6.8125,1.5 C6.76875,1.5 6.7265625,1.5234375 6.7046875,1.5625 L2.65625,8.5546875 C2.6078125,8.6375 2.6671875,8.7421875 2.7640625,8.7421875 L5.4890625,8.7421875 L4.0921875,14.3296875 C4.0625,14.4515625 4.209375,14.5375 4.3,14.45 L13.3359375,5.828125 C13.4171875,5.7515625 13.3625,5.6140625 13.25,5.6140625 Z" id="路径" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

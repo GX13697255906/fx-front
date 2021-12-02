@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>编组 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="12" cy="12" r="12"></circle>
+        <filter x="-29.2%" y="-20.8%" width="158.3%" height="158.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="8全息反演" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="全系反演" transform="translate(-460.000000, -635.000000)">
+            <g id="编组-4" transform="translate(322.000000, 477.000000)">
+                <g id="编组-14" transform="translate(142.000000, 160.000000)">
+                    <g id="椭圆形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#3399FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="sever-fill" transform="translate(5.000000, 5.000000)" fill-rule="nonzero">
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="14.08" height="14.08"></rect>
+                        <path d="M11.24,1 L2.44,1 C2.196625,1 2,1.196625 2,1.44 L2,4.52 L11.68,4.52 L11.68,1.44 C11.68,1.196625 11.483375,1 11.24,1 Z M6.07,3.09 C6.07,3.1505 6.0205,3.2 5.96,3.2 L3.43,3.2 C3.3695,3.2 3.32,3.1505 3.32,3.09 L3.32,2.43 C3.32,2.3695 3.3695,2.32 3.43,2.32 L5.96,2.32 C6.0205,2.32 6.07,2.3695 6.07,2.43 L6.07,3.09 Z M2,12.88 C2,13.123375 2.196625,13.32 2.44,13.32 L11.24,13.32 C11.483375,13.32 11.68,13.123375 11.68,12.88 L11.68,9.8 L2,9.8 L2,12.88 Z M9.92,11.01 C10.223875,11.01 10.47,11.256125 10.47,11.56 C10.47,11.863875 10.223875,12.11 9.92,12.11 C9.616125,12.11 9.37,11.863875 9.37,11.56 C9.37,11.256125 9.616125,11.01 9.92,11.01 Z M2,8.92 L11.68,8.92 L11.68,5.4 L2,5.4 L2,8.92 Z M3.32,6.83 C3.32,6.7695 3.3695,6.72 3.43,6.72 L5.96,6.72 C6.0205,6.72 6.07,6.7695 6.07,6.83 L6.07,7.49 C6.07,7.5505 6.0205,7.6 5.96,7.6 L3.43,7.6 C3.3695,7.6 3.32,7.5505 3.32,7.49 L3.32,6.83 Z" id="形状" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

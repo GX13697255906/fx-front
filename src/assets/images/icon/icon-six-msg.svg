@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="56px" viewBox="0 0 48 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-1">
+            <stop stop-color="#73FAEB" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#59F7DF" stop-opacity="0.197852928" offset="69.03769%"></stop>
+            <stop stop-color="#3FF3D3" stop-opacity="0.801710009" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="2市场成员监测（完成）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="二区-发电企业监测-电厂画像-收益" transform="translate(-1343.000000, -233.000000)">
+            <g id="编组-22" transform="translate(1324.000000, 200.000000)">
+                <g id="Group-8" transform="translate(16.000000, 34.000000)">
+                    <polygon id="Polygon" stroke="#3FF3D3" stroke-width="0.88" fill-opacity="0.45" fill="url(#radialGradient-1)" points="27 0 50.3826859 13.5 50.3826859 40.5 27 54 3.6173141 40.5 3.6173141 13.5"></polygon>
+                    <path d="M35.1249285,17 L24.1875072,17 C23.1520738,17 22.3124611,17.8529668 22.3124611,18.9047336 L22.3124611,27.7936627 C22.3124611,28.8455328 23.1520738,29.6983963 24.1875072,29.6983963 L29.1874181,29.6983963 L32.9374595,33.507941 L34.4999809,29.6983963 L35.1249285,29.6983963 C36.1603618,29.6983963 37,28.8455328 37,27.7936627 L37,18.9047336 C37,17.8529668 36.1603618,17 35.1249285,17 Z M21.0624388,27.7936627 L21.0624388,22.0793844 L18.8749698,22.0793844 C17.8396382,22.0793844 17,22.9322478 17,23.984118 L17,31.6031041 C17,32.6549742 17.8396382,33.507941 18.8749698,33.507941 L18.8749698,37 L22.9375103,33.507941 L26.3750016,33.507941 C27.4104095,33.507941 28.249946,32.6549742 28.249946,31.6031041 L28.249946,30.9682359 L24.1875072,30.9682359 C22.4624546,30.9682359 21.0624388,29.5459959 21.0624388,27.7936627 Z" id="tousu" fill="#3FF3D3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
