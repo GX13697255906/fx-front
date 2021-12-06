@@ -43,19 +43,19 @@ export default {
   top: 70px; /* 距离上面50像素 */
   left: 0%;
   bottom: 5%;
-  width: 16%;
-  overflow-y: auto; /* 当内容过多时y轴出现滚动条 */
+  width: 15%;
   background-color: #545c64;
 }
 
 .main {
   position: absolute;
   top: 70px;
-  left: 20%;
+  left: 15%;
   bottom: 5%;
   right: 0px; /* 距离右边0像素 */
-  padding: 10px;
-  overflow-y: auto; /* 当内容过多时y轴出现滚动条 */
+  padding-left: 5px;
+  /*padding: 10px;*/
+  /*overflow-y: auto; !* 当内容过多时y轴出现滚动条 *!*/
   /* background-color: red; */
 }
 

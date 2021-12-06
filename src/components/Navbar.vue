@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="navbar">
     <h1>{{ this.title }}</h1>
   </div>
 </template>
@@ -16,5 +16,9 @@ export default {
 </script>
 
 <style scoped>
+
+.navbar {
+  color: aliceblue;
+}
 
 </style>
