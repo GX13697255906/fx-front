@@ -35,6 +35,7 @@ export default {
   left: 0%;
   right: 0%;
   line-height: 25px;
+  height: 65px;
   background-color: #2d3a4b;
 }
 
@@ -42,7 +43,7 @@ export default {
   position: absolute;
   top: 70px; /* 距离上面50像素 */
   left: 0%;
-  bottom: 5%;
+  bottom: 1%;
   width: 15%;
   background-color: #545c64;
 }
@@ -51,12 +52,12 @@ export default {
   position: absolute;
   top: 70px;
   left: 15%;
-  bottom: 5%;
+  bottom: 1%;
   right: 0px; /* 距离右边0像素 */
   padding-left: 5px;
   /*padding: 10px;*/
   /*overflow-y: auto; !* 当内容过多时y轴出现滚动条 *!*/
-  /* background-color: red; */
+  background-color: black;
 }
 
 
